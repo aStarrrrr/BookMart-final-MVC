@@ -64,6 +64,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxvZ2luTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/Shared/userCardPaymentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHVzZXJDYXJkUGF5bWVudExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/Shared/userCheckoutLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHVzZXJDaGVja291dExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/Shared/userCodLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHVzZXJDb2RMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/Shared/userCommonLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHVzZXJDb21tb25MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -76,12 +88,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHVzZXJPcmRlckxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/Shared/userPaymentSelectionLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHVzZXJQYXltZW50U2VsZWN0aW9uTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/Shared/userPaymentSuccesfullLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHVzZXJQYXltZW50U3VjY2VzZnVsbExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/Shared/userUpiPaymentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHVzZXJVcGlQYXltZW50TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/User/usercardpayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx1c2VyY2FyZHBheW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/User/usercart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx1c2VyY2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/User/usercheckout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx1c2VyY2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/User/usercod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx1c2VyY29kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/User/userhome.cshtml]
@@ -92,8 +128,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx1c2Vyb3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/User/userpaymentselection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx1c2VycGF5bWVudHNlbGVjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/User/userpaymentsuccesfull.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx1c2VycGF5bWVudHN1Y2Nlc2Z1bGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/User/userprofile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx1c2VycHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/User/userupipayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx1c2VydXBpcGF5bWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/2406756/OneDrive - Cognizant/Desktop/BookMart - Copy/BookMart/Views/User/userviewbookdetails.cshtml]

@@ -24,5 +24,29 @@ namespace BookMart.Controllers
         {
             return View();
         }
+        public IActionResult usercheckout()
+        {
+            return View();
+        }
+        public IActionResult userpaymentselection()
+        {
+            return View();
+        }
+        public IActionResult usercardpayment()
+        {
+            return View();
+        }
+        public IActionResult userupipayment()
+        {
+            return View();
+        }
+        public IActionResult usercod()
+        {
+            return View();
+        }
+        public IActionResult userpaymentsuccesfull()
+        {
+            return View();
+        }
     }
 }
